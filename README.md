@@ -107,7 +107,7 @@ tribute-gom-taye-sir/
 ### Option 1 — Open Locally
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tribute-gom-taye-sir.git
+git clone https://github.com/parthbhuyan/gom-sir.git
 
 # Navigate into the folder
 cd tribute-gom-taye-sir
