@@ -13,7 +13,7 @@
 **Gom Taye Sir — Senior Technical Assistant & Ph.D. Candidate**
 **Department of Computer Science & Engineering, Rajiv Gandhi University, Arunachal Pradesh**
 
-[🌐 Live Demo](https://parthbhuyan.github.io/) • [⭐ Star this Repo](#) • [🐛 Report Bug](#)
+[🌐 Live Demo](https://parthbhuyan.github.io/gomsir/) • [⭐ Star this Repo](#) • [🐛 Report Bug](#)
 
 </div>
 
